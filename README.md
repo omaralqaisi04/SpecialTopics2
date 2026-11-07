@@ -10,4 +10,4 @@ my age is 21
 This is my Week 3 activity.
 I am learning GitHub branches and merging.
 
-Hello 2 
+
