@@ -1,3 +1,7 @@
+![Computer Science](OIP.webp)
+
+
+
 # Introduction
 Hello! My name is Omar Amer. I am a Computer Science student. I am passionate about programming, technology, and software development. I have only one semester left until graduation.
 
