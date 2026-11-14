@@ -1,17 +1,13 @@
-![Computer Science](OIP.webp)
+#Introduction
+Hello! My name is Omar Amer. I am a Computer Science student. I am passionate about programming, technology, and software development. I have only one semester left until graduation.
 
-# SpecialTopics2
-Hello dr jalal 
-how are you ? 
-HI 2
-my name is omar 12 
+##My Main Information
+-ID: 202330025
+-Name: Omar Amer
+-Major: Computer Science
 
-my age is 21
+##Research / Reading / Technical Interests
+I am interested in mobile application development, web development, programming, databases, and new technologies. I enjoy learning new programming languages and improving my technical skills.
 
-
-This is my Week 3 activity.
-I am learning GitHub branches and merging.
-
-my name is omar 
-
-
+#Expected Graduation Project
+I expect to develop a mobile application that solves a real-world problem. I would like to use Flutter and my programming skills to create a useful and user-friendly application. 
